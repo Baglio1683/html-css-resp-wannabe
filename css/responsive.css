@@ -9,6 +9,7 @@ body{
 width: 100vw;
 
 
+
 }
 
 
@@ -139,6 +140,45 @@ background-color: black;
 margin: 0;
 padding-top: 3rem;
 }
+
+
+    
+}
+
+
+/* BONUS SETTING da 1160px a 768px */
+
+
+@media screen and (max-width:1160px) {
+
+    body{
+
+        width: 100vw;
+        overflow-x: hidden;
+        
+        
+        }
+        
+        
+        main{
+        
+        width: 100%;
+        
+        }
+        
+        header{
+        
+        width: 100%;
+        
+        }
+        
+        
+        .container{
+        
+        width: 95%;
+        
+        }
+
 
 
     
