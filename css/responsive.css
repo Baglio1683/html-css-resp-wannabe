@@ -1,0 +1,58 @@
+
+
+
+@media screen and (max-width : 768px) {
+    
+
+body{
+
+width: 100vw;
+
+
+}
+
+
+main{
+
+width: 100%;
+
+}
+
+header{
+
+width: 100%;
+
+}
+
+
+.container{
+
+width: 95%;
+
+}
+
+.row{
+
+padding: 0;
+justify-content: space-between;
+
+}
+
+h2{
+
+width: 100%;
+
+}
+
+h1{
+
+width: 100%;
+text-align: center;
+
+}
+
+
+
+
+
+}
